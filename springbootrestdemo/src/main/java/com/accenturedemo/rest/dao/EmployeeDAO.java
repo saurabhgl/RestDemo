@@ -10,6 +10,7 @@ public class EmployeeDAO
 {
     private static Employees list = new Employees();
     
+    // Add static data
     static 
     {
         list.getEmployeeList().add(new Employee(1, "Saurabh", "Goel", "saurabhgoel@gmail.com"));

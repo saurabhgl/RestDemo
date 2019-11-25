@@ -7,4 +7,5 @@ public class MissingHeaderException extends RuntimeException
     public MissingHeaderException(String exception) {
         super(exception);
     }
+    
 }

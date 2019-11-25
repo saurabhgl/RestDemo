@@ -1,4 +1,4 @@
-package com.howtodoinjava.demo;
+package com.accenturedemo.demotest;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
